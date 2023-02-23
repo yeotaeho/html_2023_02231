@@ -1,0 +1,61 @@
+@charset "utf-8";
+          * {margin:0;}
+        header {width:1185px;  height:160px; margin: 0 auto; }
+        #logo {width:220px; height:100px;  margin:10px; float:left; background-color:black;}
+        #logo > a > img {width:100%; height:100%;}
+
+        #login {width: 295px; height:30px; float:right; margin: 1px0 10px 0 0; }
+        #login > ul > li{float:left; font-size:12px; list-style:none; margin:0 5px 10px 0;  color:black;}
+        #login > ul > li > a {text-decoration:none;}
+
+        nav {width:100%; height:40px; float:left; }
+        nav > ul >li {float:left; font-size:12px; list-style:none; margin:0 5px 10px 0;  color:black; font-weight:bold; }
+        nav > ul > li >a {text-decoration:none; margin: 0 10px 0 10px; }
+        nav > ul > li >a:hover{color:cyan;}
+
+
+        #slider {width:1475px;  height:560px; margin: 0 auto; }
+        #slider > a > img {width:100%; height:100%;}
+
+
+        section {width:1280px;  height:405px; margin: 0 auto;  }
+
+        #news {width:345px; height:155px;  margin: 30px 0 0 30px; float:left;}
+        #news > h3 {margin: 10px 0 0 10px;}
+        #news >table a{list-style:none; text-decoration:none; font-size:12px; color:black; margin: 10px 0 0 10px;}
+
+        #icon {width:455px; height:155px;  margin: 30px 0 0 30px; float:left;}
+        .iconbox {width:70px; height:75px; float:left; margin: 20px 10px 10px 10px;}
+        .iconbox > a > img {width:100% height:100%;} 
+        .iconbox > span > a {font-size:12px; text-align:center; text-decoration:none; color:black;}
+
+        #brand {width:330px; height:155px; margin: 30px 0 0 30px; float:left;}
+        #brand> p > a {font-size:12px; text-align:center; text-decoration:none; color:black; margin:10px 0 0 10px;}
+        #brand > h3 {margin: 10px 0 0 10px;}
+
+
+        #promotion {width:345px; height:150px;  margin: 30px 0 0 30px; float:left;}
+        #promotion > p > a {font-size:12px; text-align:center; text-decoration:none; color:black; margin:10px 0 0 10px;}
+        #promotion > h3 {margin: 10px 0 0 10px;}
+        #promotion > a > img {width:80px; height:50px; float:right;}
+
+        #camp {width:455px; height:150px; margin: 30px 0 0 35px; float:left;}
+        #camp > h3 {margin: 10px 0 0 10px;}
+        #camp > p > a {font-size:12px; text-align:center; text-decoration:none; color:black; margin:10px 0 0 10px;}
+        #camp > a > img {width:80px; height:50px; float:right;}
+
+
+        #store {width:330px; height:150px;  margin: 30px 0 0 30px; float:left;}
+        #store > h3 {margin: 10px 0 0 10px;}
+        #store > p > a {font-size:12px; text-align:center; text-decoration:none; color:black; margin:10px 0 0 10px;}
+        #store > a > img {width:80px; height:50px; float:right;}
+
+
+        footer {width:100%;  height:130px; margin: 0 auto; }
+        #box {width:1240px;  height:130px; }
+        #box > ul {width:600px; height:70px; margin: 10px 50px 0 50px;}
+        #box > ul > li  {font-size:12px; list-style:none; color:black; margin:10px 0 0 10px; float:left;}
+        #box > ul > li > a{text-decoration:none; }
+
+
+        #box > p {font-size:12px; text-align:center;  color:black; margin:10px 0 0 10px;}
